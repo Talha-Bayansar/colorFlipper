@@ -9,6 +9,10 @@ body{
     font-family: "Roboto", sans-serif;
 }
 
+button{
+    outline: none;
+}
+
 /*----------------------HEADER--------------------*/
 
 header{
@@ -68,6 +72,7 @@ nav a:hover{
 
 .background-color span{
     color: #49A6E9;
+    text-transform: capitalize;
 }
 
 .change-btn{
